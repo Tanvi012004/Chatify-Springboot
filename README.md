@@ -21,7 +21,7 @@ The application incorporates the following technologies:
 To run the chat application locally, follow these steps:
 
 1. __Clone the repository__: ``` git clone https://github.com/Kshitijk5/Springboot-chatapp.git```
-2. __Navigate to the project directory__: ```cd chatroom-backend```
+2. __Navigate to the project directory__: ```cd chatroon-backend```
 3. __Set up the backend server__:
    - Install the necessary dependencies: ```mvn clean install```
    - Start the Spring Boot server: ```mvn spring-boot:run```
