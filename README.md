@@ -44,8 +44,4 @@ Here are some screenshots of the chat application:
 
 Feel free to explore and enhance the application according to your requirements.
 
-## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please create a new issue in the repository. You can also submit pull requests to contribute directly to the project.
 
-## License
-The chat application project is open-source and released under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
